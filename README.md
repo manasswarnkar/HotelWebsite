@@ -1,0 +1,1 @@
+The purpose of the hotel website is to provide a platform for individuals to book rooms, login, check availability, make payments, and provide a user-friendly interface. Created different use cases, test cases, state chart diagrams etc.
